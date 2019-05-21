@@ -1,12 +1,18 @@
-# Skočko engine
+# Skočko solver
 
-Program koji igra igru "skočko" popularnog 
-TV kviza "Slagalica".
+Simple app for solving **skočko** game from popular TV quiz "Slagalica".
 
-Za rešavanje ćemo koristiti različite tehnike
-iz domena statistike i verovatnoće.
+ 
+# Built with
+  - Haskell
+  - GTK3
 
-Za programski jezik odabran je Haskell, uz 
-korišćenje biblioteka za GUI koje ne radimo 
-na kursu.
+# Run
+* download executable
+* chmod +x exxx
+* Run!
+
+#  Authors
+* Strahinja Ivanović |  GitHub &bull; [Aleksej10](https://github.com/Aleksej10)  
+* Darko Veizović |   GitHub &bull; [wnsmith](https://github.com/wnsmith)    
 
