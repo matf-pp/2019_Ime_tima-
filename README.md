@@ -1,4 +1,6 @@
 # Skočko solver
+![](https://github.com/matf-pp2019/Ime_tima-/blob/master/img.png?raw=true)
+
 
 Simple app for solving **skočko** game from popular TV quiz "Slagalica".
 
